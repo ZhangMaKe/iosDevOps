@@ -23,7 +23,6 @@ xcuserdata/
 *.xcscmblueprint
 
 ## Obj-C/Swift specific
-*.lock
 *.hmap
 *.ipa
 *.dSYM.zip
